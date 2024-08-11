@@ -1,1 +1,1 @@
-# 2d_image_processing
+# 2D_image_processing
